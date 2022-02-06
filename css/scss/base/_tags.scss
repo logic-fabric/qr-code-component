@@ -1,0 +1,36 @@
+/* =======================
+   RAW TAGS DEFAULT STYLES
+   ======================= */
+
+html {
+  box-sizing: border-box;
+
+  font-family: $font-text;
+  font-size: 1rem;
+  font-weight: 400;
+
+  background: $neutral-100;
+
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+main {
+  max-width: $large-container-width;
+  margin: auto;
+}
+
+h1 {
+  color: $primary-900;
+  font-size: $h1-size;
+  font-weight: 700;
+}
+
+p {
+  font-size: $txt-size;
+}

@@ -1,0 +1,29 @@
+// ======
+// COLORS
+// ======
+
+$primary-100: hsl(220, 15%, 55%);
+$primary-900: hsl(218, 44%, 22%);
+
+$neutral-100: hsl(212, 45%, 89%);
+
+// ==========
+// TYPOGRAPHY
+// ==========
+
+$font-title: "Outfit", sans-serif;
+$font-text: "Outfit", sans-serif;
+
+// =======================
+// TEXT AND HEADINGS SIZES
+// =======================
+
+$txt-size: 15px;
+
+$h1-size: 1.5 * $txt-size;
+
+// ====================================
+// BREAKPOINTS AND CONTAINERS MAX-WIDTH
+// ====================================
+
+$large-container-width: 1440px;
