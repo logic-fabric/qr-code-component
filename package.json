@@ -9,16 +9,8 @@
     "buildCSS": "node ./node_modules/gulp/bin/gulp.js buildCSS",
     "autoprefixCSS": "node ./node_modules/gulp/bin/gulp.js autoprefixCSS"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/logic-fabric/logic-fabric.git"
-  },
   "author": "Lowic Mangin",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/logic-fabric/logic-fabric/issues"
-  },
-  "homepage": "https://github.com/logic-fabric/logic-fabric#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
