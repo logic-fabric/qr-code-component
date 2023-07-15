@@ -5,3 +5,5 @@ A newbie [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/qr
 ## Demo page
 
 This code is rendered on this [GitHub page](https://logic-fabric.github.io/qr-code-component/).
+
+![QR component preview](./design/desktop-design.jpg)
